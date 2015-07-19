@@ -10,3 +10,7 @@ Features
 Cosmetics/Optional
 ==================
 - Use a form handling lib ?
+
+git
+===
+- Mirror the git repo on github and ffdn
